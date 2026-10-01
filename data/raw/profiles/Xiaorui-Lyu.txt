@@ -1,0 +1,130 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 吕晓睿-中国科学院大学-UCAS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [中文] 
+ [English] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Education 
+ 
+ 
+ 
+ 
+ 
+ Research Experience 
+ 
+ 
+ 
+ 
+ 
+ Publications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ General 
+ 
+ 
+ Xiao-Rui Lyu Professor Email: xiaorui AT ucas.ac.cn Postal Address: School of Physical Science University of Chinese Academy of Sciences, No. 19A Yuquan Road, Shijingshan District, Beijing 100049, China 
+ 
+ 
+ 
+ 
+ 
+ Research Interests 
+ 
+ 
+ 
+ My interest lies in the experimental particle physics. That is to understand the origin of the world by the experimental probe to the fundamental structure and their interactions of particles. Currently, I am involved in the BESIII project in BEPCII facility in China, and the LHCb project in CERN in Switzerland. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Education 
+ 
+ 
+ 
+ Apr. 2006&mdash;Sep. 2008, Department of Physics, Tokyo Institute of Technology; Doctor of Science 
+Oct. 2005&mdash;Mar. 2006, Department of Physics, Tokyo Institute of Technology; Research Student 
+Sep. 2002&mdash;Jun. 2005, School of Physics, Peking University; Master of Science 
+Sep. 1998&mdash;Jun. 2002, School of Physics, Peking University; Bachelor of Science 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research Experience 
+ 
+ 
+ 
+ 2015--Present, LHCb experiment, CERN, Geneva, Switzerland Charm decays and CPV Hadron production, spectroscopy and exotics Future detector and software upgrade 2008--Present, BESIII experiment, IHEP, Beijing, China Responsible for the offline softwares: fast tracking and event start time Physics analysis on hadron spectroscopy, charmonium decays and charmed-hadrons 2002--2010, HERMES experiment, DESY, Germany Study on the nucleon spin structure, especially the transversity and related fragmentation functions HERMES Gain Monitoring System and HERMES Data Production Search of Pentaquark Study of the spin transfer from beam to Lambda production 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Publications 
+ 
+ 
+ 
+ An exhaustive list of my publication can be found in the inspirehep website: http://inspirehep.net/author/profile/Xiao.Rui.Lyu.1?ln=zh_CN Representative publications are listed as follows. BESIII Collaboration, Observation of Λc+ → Λ a0(980)+ and Evidence for Σ(1380)+ in Λc+ → Λπ+ η, Phys. Rev. Lett. 134, 021901 (2025) BESIII Collaboration, Observation of a rare beta decay of the charmed baryon with a Graph Neural Network, Nature Communication 16, 681 (2025) LHCb Collaboration, Observation of New Charmonium or Charmoniumlike States in B+ → D*± D∓ K+ Decays, Phys. Rev. Lett. 133, 131902 (2024) LHCb Collaboration, Observation of Cabibbo-Suppressed Two-Body Hadronic Decays and Precision Mass Measurement of the Ωc0 Baryon, Phys. Rev. Lett. 132, 081802 (2024) BESIII Collaboration, First Measurement of the Decay Asymmetry in the Pure W-Boson-Exchange Decay Λc+ → Ξ0 K, Phys. Rev. Lett. 132, 031801 (2024) BESIII Collaboration, Measurement of Energy-Dependent Pair-Production Cross Section and Electromagnetic Form Factors of a Charmed Baryon, Phys. Rev. Lett. 131, 191901 (2023) BESIII Collaboration, Observation of a Vector Charmoniumlike State at 4.7 GeV/c2 and Search for Zcs in e+e− →K+K−J/ψ, Phys. Rev. Lett. 131, 211902 (2023) LHCb Collaboration, First Observation of a Doubly Charged Tetraquark and Its Neutral Partner, Phys. Rev. Lett. 131, 041902 (2023) LHCb Collaboration, Observation of a Resonant Structure near the Ds+ Ds− Threshold in the B + → Ds+ Ds− K + Decay,Phys. Rev. Lett. 131, 071901 (2023) LHCb Collaboration, First observation of the B+→ Ds+ Ds− K+ decay, Phys. Rev. D 108, 034012 (2023) BESIII Collaboration, Measurements of the Electric and Magnetic Form Factors of the Neutron for Timelike Momentum Transfer, Phys. Rev. Lett. 130, 151905 (2023) BESIII Collaboration, Observation of Three Charmoniumlike States with JPC =1−− in e+e−→D*0 D*− π+, Phys. Rev. Lett. 130, 121901 (2023) BESIII Collaboration, Observations of the Cabibbo-Suppressed decays decay Λc+→nπ+π0, nπ+π- π+ and the Cabibbo-Favored decay Λc+ → nK-π+π+, Chin. Phys. C 47, 023001 (2023) 21. BESIII Collaboration, Study of the Semileptonic Decay Λc+→Λe+νe, Phys. Rev. Lett. 129, 231803 (2022) BESIII Collaboration, Evidence for a Neutral Near-Threshold Structure in the KS0 Recoil-Mass Spectra in e+e-→KS0 Ds+ D*- and e+e-→KS0 Ds*+ D-, Phys. Rev. Lett. 129, 112003 (2022) LHCb Collaboration, Measurement of the lifetimes of promptly produced Ωc0 and Ξc0 baryons, Science Bulletin 67, 479 (2022) BESIII Collaboration, Observation of the Singly Cabibbo Suppressed Decay Λc+→nπ+, Phys. Rev. Lett. 128, 142001 (2022) BESIII Collaboration, Oscillating features in the electromagnetic structure of the neutron, Nature Physics 17, 1200–1204 (2021) BESIII Collaboration, Observation of a near-threshold structure in the K+ recoil-mass spectra in e+e- → K+(Ds- D*0 + Ds*- D0), Phys. Rev. Lett. 126, 102001 (2021) BESIII Collaboration, First Measurement of the Form Factors in Ds+ → K0e+ νe and Ds+ → K*0e+ νe Decays, Phys. Rev. Lett. 122, 061801 (2019) LHCb Collaboration, Measurement of the Lifetime of the Doubly Charmed Baryon Xi_cc++, Phys. Rev. Lett. 121, 052002 (2018) LHCb Collaboration, First observation of the doubly charmed baryon decay Xi_cc++→ Xic+pi+, Phys. Rev. Lett. 121, 162002 (2018) BESIII Collaboration, Observation of Λc+ → nKsπ+, Phys. Rev. Lett. 118, 112001 (2017) LHCb Collaboration, Observation of the Doubly Charmed Baryon Ξcc++, Phys. Rev. Lett. 119, 112001 (2017) BESIII Collaboration, Measurements of absolute hadronic branching fractions of Λc+ baryon, Phys. Rev. Lett. 116, 052001 (2016) BESIII Collaboration, Measurement of azimuthal asymmetries in inclusive charged dipion production in e+e- annihilation at sqrt(s)=3.65 GeV, Phys. Rev. Lett. 116, 042001 (2016) BESIII Collaboration, Measurement of the Absolute Branching Fraction for Λc→Λeν, Phys. Rev. Lett. 115, 221805 (2015) BESIII Collaboration, Observation of a Neutral Structure near the DD* Mass Threshold in e+e−→ (DD*)0π0at √s=4.226 and 4.257GeV, Phys. Rev. Lett. 115, 222002 (2015) BESIII Collaboration, Observation of a Neutral Charmoniumlike State Zc(4025)0in e+e−→ (D*D*)0π0, Phys. Rev. Lett. 115, 182002 (2015) BESIII Collaboration, Observation of a charged charmoniumlike structure in e+e−→ (D∗D∗)±π∓ at sqrt(s)=4.26GeV, Phys. Rev. Lett.112, 132001 (2014) BESIII Collaboration, Evidence for the Direct Two-Photon Transition from ψ(3686) to J/Ψ，Phys. Rev. Lett. 109, 172002 (2012) HERMES Collaboration, Evidence for a Transverse Single-Spin Asymmetry in Leptoproduction of Pion Pairs, Journal of High Energy Physics 0806, 017 (2008) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 声明：导师网页信息由导师个人维护，仅代表导师本人。教师系统仅提供信息存储空间服务。 2013 &copy; 中国科学院大学，网络信息中心. 
+ 
+ 
+ 

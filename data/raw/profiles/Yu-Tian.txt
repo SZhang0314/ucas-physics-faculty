@@ -1,0 +1,238 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 田雨-中国科学院大学-UCAS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [中文] 
+ [English] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research Areas 
+ 
+ 
+ 
+ Experience 
+ 
+ 
+ 
+ Honors & Distinctions 
+ 
+ 
+ 
+ Publications 
+ 
+ 
+ 
+ Research Interests 
+ 
+ 
+ 
+ Vortex Lattices 
+ 
+ 
+ 
+ Superfluid Turbulence 
+ 
+ 
+ 
+ Towards an effective description of holographic vortex dynamics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ General 
+ 
+ 
+ 
+ Tian, Yu 
+ Email: ytian@ucas.ac.cn 
+Telephone: 010-82640447 
+Address: University of Chinese Academy of Sciences, 19A Yuquanlu, Beijing 
+Postcode: 100049 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research Areas 
+ 
+ 
+ 
+ Research Areas in the Past: 1. Quantum field theory and related mathematical and physical problems 2. Generalized special relativity and related models of gravity 3. Thermodynamics of black holes and curved space-times 4. Possible microscopic origins of black hole entropy 5. Black hole membrane paradigm and gravity/fluid duality 6. The holographic principle and the nature of gravity Present Research Interests: AdS/CFT (gauge/gravity) duality and its applications and generalizations, gravitational theories and black holes, numerical relativity and its applications, gravitational waves and their detection 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Experience 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Teaching Experience 
+ 
+ Courses: 1. Introduction to Path Integral and Quantum Physics 2. Group Theory (2) 3. Symmetries and Their Applications in Physics 4. Introduction to General Relativity 
+ 
+ 
+ 
+ 
+ 
+ Honors & Distinctions 
+ 
+ 
+ 
+ Yu Tian, Xiao-Ning Wu and Hongbao Zhang, Poor man&rsquo;s holography: How far can it go? , Honorable Mention in the 2012 Essay Competition of the Gravity Research Foundation . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Publications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Papers 
+ 
+ 110+ published papers, including 6 in PRL. http://inspirehep.net/search?p=find+ea+tian,+yu 
+ 
+ 
+ 
+ 
+ 
+ Research Interests 
+ 
+ 
+ 
+ Holographic boiling and generalized thermodynamic description beyond local equilibrium Xin Li, Zhang-Yu Nie, Yu Tian [ arXiv:2003.12987 ] Tuning a very simple two-component holographic superfluid model, we can have a first order phase transition between two superfluid phases in probe limit. Inspired by the potential landscape discussion, an intuitive physical picture for systems with first order phase transitions is provided. We stress that holography perfectly offers a generalized thermodynamic description of certain strongly coupled systems even out of local equilibrium, which enables us to carefully study domain wall structures of the system under first order phase transitions, either static or in real time dynamics. We numerically construct the 1D domain wall configuration and compute the surface tension of the domain wall from its generalized grand potential. We also numerically simulate the real time dynamics of a 2D bubble nucleation process (holographic boiling). The surface tension of the 1D domain wall nicely matches the final state of the 2D bubble nucleation process when the bubble radius is large enough. This study can be regarded as a fist step towards a holographic description of the Helium-3 dynamics, which is a strongly coupled system and has two superfluid phases with a first order phase transition. MOVIE
+ 1. The 1D domain wall configuration of the chemical 
+potential, illustrating the generalized chemical balance condition. MOVIE 2. The 1D domain wall configuration of the grand potential, illustrating the mechanical balance condition. MOVIE 3. The 1D domain wall configuration of the 1st condensate. ​ MOVIE 4. The 1D domain wall configuration of the 2nd condensate. MOVIE 5. Cross section of the 2D bubble configuration of the chemical potential, illustrating the generalized chemical balance condition. MOVIE 6. Cross section of the 2D bubble configuration of the grand potential, illustrating the pressure difference (caused by the surface tension of the domain wall) between inside and outside of the bubble. MOVIE 7. Cross section of the 2D bubble configuration of the particle number density. The total particle number of the system is conserved. MOVIE 8. Cross section of the 2D bubble configuration of the 1st condensate, distributing inside the bubble. MOVIE 9. Cross section of the 2D bubble configuration of the 2nd condensate, distributing outside the bubble. MOVIE 10. 2D bubble configuration of the grand potential, stabilizing towards a crater-like structure. MOVIE 11. 2D bubble configuration of the 1st condensate, distributing inside the round bubble. MOVIE 12. 2D bubble configuration of the 2nd condensate, distributing outside the round bubble. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Vortex Lattices 
+ 
+ 
+ 
+ Generation of vortices and stabilization of vortex lattices in holographic superfluids https://arxiv.org/abs/1904.05497 Movie 1. A top view of a lattice formation process consisting of 7 vortices, which ends up with a perfect triangluar lattice. Movie 2. A boxed view of the same process as in MOVIE 1. Movie 3. A top view of a lattice formation process consisting of 19 vortices, which also ends up with a perfect triangluar lattice. Movie 4. A boxed view of the same process as in MOVIE 3. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Superfluid Turbulence 
+ 
+ 
+ 
+ Holographic Thermal Relaxation in Superfluid Turbulence Yiqiang Du, Chao Niu, Yu Tian, Hongbao Zhang [arXiv:1412.8417] Holographic
+ duality provides a first-principles approach to investigate real time 
+processes in quantum many-body systems, in particular at finite 
+temperature and far-from-equilibrium. We use this approach to study the 
+dynamical evolution of vortex number in a two-dimensional (2D) turbulent
+ superfluid through numerically solving its gravity dual. We find that 
+the temporal evolution of the vortex number can be well fit 
+statistically by two-body decay due to the vortex pair annihilation 
+featured relaxation process, thus confirm the previous suspicion based 
+on the experimental data for turbulent superfluid in highly oblate 
+Bose-Einstein condensates. Furthermore, the decay rate near the critical
+ temperature is in good agreement with the recently developed effective 
+theory of 2D superfluid turbulence. MOVIE 1. A typical process of the holographic vortex pair annihilation. MOVIE 2. A bottom view of the same process as in MOVIE 1. MOVIE
+ 3. The density plot of the same process as in MOVIE 1. The blue regions
+ here are those places where the condensate has small absolute values, 
+which can be identified with the places of the cores of vortices or gray
+ solitons. MOVIE
+ 4. The vortex number counting of the same process as in MOVIE 1, where 
+the red (blue) dots are cores of the (anti-)vortices. MOVIE 5. MOVIE 1 - 4 put together for comparison, synchronized with one another. ​ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Towards an effective description of holographic vortex dynamics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 声明：导师网页信息由导师个人维护，仅代表导师本人。教师系统仅提供信息存储空间服务。 2013 &copy; 中国科学院大学，网络信息中心. 
+ 
+ 
+ 

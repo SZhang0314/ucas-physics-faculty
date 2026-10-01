@@ -1,0 +1,189 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 周昕-中国科学院大学-UCAS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [中文] 
+ [English] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research Areas 
+ 
+ 
+ 
+ Education 
+ 
+ 
+ 
+ Experience 
+ 
+ 
+ 
+ Publications 
+ 
+ 
+ 
+ Research Interests 
+ 
+ 
+ 
+ Jobs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ General 
+ 
+ 
+ 
+ Prof. Xin Zhou (周昕) Email: xzhou at ucas dot ac dot cn Telephone: Mobile phone: Address: NanYiTiao #3, ZhongGuanCun, School of Physical Sciences, University of Chinese Academy of Science, Beijing 100190, China Postcode: 100190 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research Areas 
+ 
+ 
+ 
+ Computational and Theoretical Biophysics 
+Statistical Physics 
+Soft Condense Matter Physics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Education 
+ 
+ 
+ 
+ 2001 Ph.D Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Experience 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Work Experience 
+ 
+ 2001 - 2003, Tokyo Institute of Technology, JSPS Fellow 2003 - 2005, Max-Planck Institute for Polymer in Mainz, Germany, Humboldt Fellow 2005-2008, Los Alamos National Laboratory, NM, USA, Postdoctoral researcher 2008-2011, Asia Pacific Center for Theoretical Physics, Pohang, Korea, Group Leader; Pohang University of Science and Technology, Adjunct Professor 2011 - , School of Physical Sciences, University of Chinese Academy of Sciences, Beijing, Professor 
+ 
+ 
+ 
+ Teaching Experience 
+ 
+ Computer simulation in Modern Physics 
+ 
+ 
+ 
+ 
+ 
+ Publications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Papers 
+ 
+ 2016 Huige Yang, Chao Ma, Kaiyong Li, Kai Liu, Mark Loznik, Rosalie Teeuwen, Jan C. M. van Hest, Xin Zhou* , Andreas Herrmann*, and Jianjun Wang*, Tuning Ice Nucleation with Supercharged Polypeptides, Adv. Matter. 28 , 5008 - 5012 (2016) Biao Wan, Cheng Yang, Yanting Wang , Xin Zhou *, Jarzynski matrix equality: Calculating the free energy difference by nonquilibrium simulations with an arbitrary initial distribution, Phys. Rev. E 93 , 043312, (2016). Cheng Yang, Biao Wan, Shun Xu, Yanting Wang , Xin Zhou *, Equilibrium sampling by re-weighting non-equilibrium simulation trajectories, Phys. Rev. E 93 , 033309, (2016). 2015 Seongmin Jeong, Yongseok Jho*, and Xin Zhou *, Micro-structural Change During Nucleation: From Nucleus To Bicontinuous Morphology, Scientific Reports,5:15955 (2015) Minzhe Shao, Jianjun Wang*, Xin Zhou *, Anisotropy of Local Stress Tensor Leads to Line Tension, Scientific Reports, 5: 9491 (2015) XU Shun, ZHOU Xin *, JIANG Yi, and WANG YanTing, Fast Adaptive flat-histogram ensemble to enhance the sampling in large systems , Sci. Chin. Phys, Mech. & Astr. 58, 590501 (2015) HAI Nan-Nan, ZHOU Xin , LI Ming, Influences of the Structure of Lipids on Thermal Stability of Lipid Membranes , Commun. Theor. Phys. 64, 249-258 (2015) Lin-Tai Da, Chao E, Baogen Duan, Chuanbiao Zhang, Xin Zhou , Jin Yu, A Jump-from-Cavity Pyrophosphate Ion Release Assisted by a Key Lysine Residue in T7 RNA Polymerase Transcription Elongation , Plos Computational Biology, 11, 1004624 (2015) Linchen Gong, Xin Zhou *, and Zhongcan Ouyang, Reweighted ensemble dynamics simulations: theory, improvement, and application , Chin Phys B, 24 ， 060202 (2015) Zhang Chuan-Biao, Li Ming, Zhou Xin *, The construction of general basis functions in reweighting ensemble dynamics simulations: Reproduce equilibrium distribution in complex systems from multiple short simulation trajectories , Chin. Phys. B 24, 120202 (2015). Shijing Lu, Xin Zhou *, Construction of Coarse-Grained Models by Reproducing Equilibrium Probability Density Function , Commun. Theor. Phys. 63 ， 10 (2015) 2014 Linchen Gong, Xin Zhou *, Zhongcan Ouyang, Systematically Constructing Kinetic Transition Network in Polypeptide from Top to Down: Trajectory Mapping, Plos one, 10 , 0125932 (2014). Byoungkoo Lee, Xin Zhou , Kirstein Riching, Kevin W. Eliceiri, Patricia J. Keely, Scott A. Guelcher, Alissa M. Weaver, Yi Jiang, A Three-Dimensional Computational Model of Collagen Network Mechanics , Plos One 9, e111896 (2014) SeongMin Jeong, Xin Zhou , Ekaterina B. Zhulina, and YongSeok Jho, Monte Carlo Simulation of the Neurofilament Brush , Israel J. Chem. doi:10.1002 (2014) Kaiyong Li, Shun Xu, Jing Chen, Qianlan Zhang, Yifan Zhang, Dapeng Cui, Xin Zhou , Jianjun Wang, and Yanlin Song, Viscosity of interfacial water regulates ice nucleation , Appl. Phys. Lett. 104, 101605 (2014) 2013 Fanlong Meng, Ming Li, Xin Zhou *, and Zhongcan Ouyang, A theoretical study on entropy-driven polymer translocation through a finite-sized nanochannel , Chem. Phys. Lett. 565, 116-121, (2013). Jing Chen, Renmei Dou, Dapeng Cui, Qiaolan Zhang, Yifan Zhang, Fujian Xu, Xin Zhou , Jianjun Wang, Yanlin Song, and Lei Jiang, Robust Prototypical Anti-icing Coatings with a Self-lubricating Liquid Water Layer between Ice and Substrate , ACS Appl. Mater. Interfaces 5, 4026-4030 (2013). 2012 Kaiyong Li, Shun Xu, Wenxiong Shi, Min He, Huiling Li, Shuzhou Li, Xin Zhou , Jianjun Wang, and Yanlin Song, Investigating the Effects of Solid Surfaces on Ice Nucleation , Langmuir, 28, 10749-10754 (2012). Min He, Xin Zhou , Xiping Zeng, Dapeng Cui, Qiaolan Zhang, Jing Chen, Huiling Li, Jianjun Wang, Zexian Cao, Yanlin Song and Lei Jiang, Hierarchically structured porous aluminum surfaces for high-efficient removal of condensed water , Soft Matter, 8, 6680 (2012). Shun Xu, Xin Zhou *, Zhong-Can Ou-Yang, Parallel Tempering Simulation on Generalized Canonical Ensemble ， Comm. in Comput. Phys. 12, 1293 (2012). G. Zuo, P. Xiu, X. Zhou , R. Zhou, H. Fang, Conformational Changes of the Protein Domains Upon Binding with Carbon Nanotubes Studied by Molecular Dynamics Simulations , Current Physical Chemistry, 2, 12-22 (2012). 2011 G. Zuo, Xin Zhou , Q Huang, H. P. Fang, and R. H. Zhou ， Adsorption of Villin Headpiece onto Graphene, Carbon Nanotube, and C60: Effect of Contacting Surface Curvatures on Binding Affinity ， J. Phys. Chem. C, 115, 23323-23328 ， (2011). P. Reunchan, Xin Zhou , S. Limpijumnong, A. Janotti, C. G. Van de Walle, Vacancy Defects in Indium Oxide: An ab-initio Study ， Current Applied Physics, 11, S296 (2011). 
+ 
+ 
+ 
+ 
+ 
+ Research Interests 
+ 
+ 
+ 
+ - Develop advanced simulation and data analysis techniques - Multiscale molecular dynamics simulations in water, soft materials and biological macromolecular systems - Equilibrium and non-equilibrium statistical physics in small systems 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jobs 
+ 
+ 
+ 
+ Opening positions for Ph.D Students, Postdoctoral Researchers and Visiting Scientists until these positions are filled. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 声明：导师网页信息由导师个人维护，仅代表导师本人。教师系统仅提供信息存储空间服务。 2013 &copy; 中国科学院大学，网络信息中心. 
+ 
+ 
+ 

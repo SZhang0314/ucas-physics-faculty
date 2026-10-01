@@ -1,0 +1,238 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 何吉波-中国科学院大学-UCAS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [中文] 
+ [English] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Education 
+ 
+ 
+ 
+ Experience 
+ 
+ 
+ 
+ Honors & Distinctions 
+ 
+ 
+ 
+ Publications 
+ 
+ 
+ 
+ Research Interests 
+ 
+ 
+ 
+ Conferences 
+ 
+ 
+ 
+ Supervision 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ General 
+ 
+ 
+ 
+ Jibo HE, Professor Email: jibo.he@_NoSPAM_ucas.ac.cn Address: School of Physical Sciences, University of Chinese Academy of Sciences, 19A Yuquan Road, Shijingshan， Beijing 100049, China 
+ 
+ 
+ 
+ 
+ 
+ 
+ Education 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tsinghua University , Beijing, China 
+ 
+ 
+ PhD in Experimental Particle Physics, 2002-2008. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Beihang University , Beijing, China 
+Bachelor of Engineering in Space Technology, 1998-2002. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Experience 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Work Experience 
+ 
+ University of Chinese Academy of Sciences (UCAS), Beijing, China Professor in the School of Physical Sciences, since 2016. Hangzhou Institute for Advanced Study, UCAS, Hangzhou, China Adjunct Professor in the School of Fundamental Physics and Mathematical Sciences, since 2020. University of Chinese Academy of Sciences (UCAS), Beijing, China Associate Professor in the School of Physical Sciences, 2015-2016. CERN, Geneva, Switzerland CERN Fellow in the LHCb group (PH/LBD), 2013-2015. Laboratoire de l'accélérateur Linéaire (LAL), Université Paris-Sud, CNRS/IN2P3, Orsay, France Post-doctoral in the LHCb group, 2008-2012. 
+ 
+ 
+ 
+ Responsibilities 
+ 
+ Promotion editor of Sci. China - Phys. Mech. Astron., Janurary 2020-. Member of the LHCb Editorial Board, December 2020 - November 2022. Convener of LHCb b-hadrons and Quarkonium WG (Level-2), Janurary 2019 - March 2021. Convener of the ICHEP 2018 parallel session "Hadron Interactions and Hadron Physics (10)", July 2018. Referee of Phys. Lett. B, JHEP, Phys. Rev. D, Phys. Rev. Lett. Convener of the "QCD spectroscopy and exotic hadrons" stream of the Implications of LHCb measurements and future prospects workshop, Novermber 2017. Guest Editor of the Speical Issue “Physics at a Fixed-Target Experiment Using the LHC Beams”, Advances in High Energy Physics (AHEP), 2015 LHCb Operation Planning Group member responsible for the RICH online calibration (Level-2), September 2014 - October 2015. Convener of LHCb b-hadrons and Bc physics sub-WG (Level-3), March 2012 - April 2013. LHCb Stripping coordinator responsible for central preselection of all physics analysis (Level-2), May 2011 - Oct 2012. Trigger & Stripping coordinator of LHCb b-hadrons and Quarkonia WG, August 2010 - August 2013. 
+ 
+ 
+ 
+ 
+ 
+ Honors & Distinctions 
+ 
+ 
+ 
+ Member of the Excellent Undergraduate Education Team of Beijing, Beijing city, China, July 2020 Jean d'Alembert Fellowship, Paris-Saclay University, France, May 2017 ( Public talk on youtube). CERN Fellowship, CERN, Switzerland, January 2013. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Publications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selected journal articles 
+ 
+ LHCb collaboration, Angular analysis of the decay Λ b 0 → Λ(1520) μ + μ - , arXiv:2608.21082. H. Sun*, G. Qin, J. He*, Auxiliary-channel-assisted cross-talk noise removal in LISA Pathfinder , arXiv:2607.05236. LHCb collaboration, Measurement of the ratio of branching fractions B(B c →J/ψτν)/B(B c →J/ψμν)﻿, arXiv:2606.10018, accepted by Phys. Rev. Lett. LHCb collaboration, Observation of the doubly charmed baryon Ξcc+ with the LHCb Run 3 detector, Phys. Rev. Lett. 137 (2026) 021902. F. Guo*, J. He *, Long-algorithm based quantum search for gravitational wave , arXiv:2603.17698. T. Shen*, H. Wang, J. He *, A kalman-smoother based data imputation strategy to data gaps in spaceborne grativational wave detectors , arXiv:2507.02458. J.-S. Wang, C. Liu, J. Chen, J. He, Test gravitational-wave polarizations with space-based detectors , arXiv:2506.02909. F. Guo*, J. He*, Quantum search for gravitational wave of massive black hole binaries , Phys. Rev. D 112 (2025) 083004. J. Tian et al. , Learning and interpreting gravitational-wave features from CNNs with a random forest approach , Machine Learning: Sci. Technol. 6 (2025) 035045. LHCb collaboration, Branching fraction measurement of the decay B + →ψ(2S)φ(1020)K + , Phys. Rev. D 111 (2025) 092008. H. Sun*, H. Wang*, J. He*, Accelerating Bayesian sampling for massive black hole binaries with prior constraints from conditional variational autoencoder , Phys. Rev. D 111 (2025) 103053. LHCb collaboration, Study of charmonium production via the decay to ppbar at 13 TeV , EPJC 84 (2024) 1274. X. Wei*, L. Huang, T. Shen, Z. Cai and J. He*, Calibration of the in-orbit center-of-mass of Taiji-1 , Phys. Rev. D 108 (2023) 082001. LHCb collaboration, Measurement of the Λ b 0 → Λ(1520) μ + μ - differential branching fraction , Phys. Rev. Lett. 131 (2023) 151801. LHCb collaboration, Observation of new Ω c 0 states decaying to the Ξc+K - final state , Phys. Rev. Lett. 131 (2023) 131902 (Editors' Suggestion). LHCb collaboration, Measurment of the ratio of branching fractions B(B c →B s π)/B(B c →J/ψπ) , JHEP 07 (2023) 066. R. Calabrese et al. , Performance of the LHCb RICH detectors during LHC Run 2 , JINST 17 (2022) P07013 LHCb collaboration, Search for the doubly heavy baryon Ξbc+ decaying to J/ψΞc+ , Chin. Phys. C 47 (2023) 093001. LHCb collaboration, Observation of the doubly charmed baryon decay Ξcc++ →Ξc'+π + , JHEP 05 (2022) 038. LHCb collaboration, Measurement of X(3872) production in proton-proton collisions at 8 and 13 TeV , JHEP 01 (2022) 131. E. Chapon et al. , Perspectives for quarkonium studies at the high-luminosity LHC , Progress in Particle and Nuclear Physics 122 (2022) 103906. LHCb collaboration, Search for the doubly charmed baryon Ξcc+ in the Ξc+π + π - final state , JHEP 12 (2021) 107. LHCb collaboration, Search for the doubly charmed baryon Ω cc + , Sci. China Phys. Mech. Astron. 64 (2021) 101062. LHCb collaboration, Search for the doubly heavy Ξbc0 baryon via decays to D 0 pK - , JHEP 11 (2020) 095. LHCb collaboration, Precision measurement of the B c + meson mass, JHEP 07 (2020) 123. LHCb collaboration, Observation of new Ξc0 baryons decaying to Λ c + K - , Phys. Rev. Lett. 124 (2020) 222001 (Editors' Suggestion, Featured in Physics). LHCb collaboration, Precision measurement of the Ξcc++ mass , JHEP 02 (2020) 049. LHCb collaboration, Measurement of the η c (1S) production cross-section in pp collisions at 13 TeV , EPJC 80 (2020) 191. LHCb collaboration, Measurement of Ξcc++ production in pp collisions at 13 TeV , Chin. Phys. C. 44 (2020) 022001 (Cover paper). LHCb collaboration, Search for the doubly charmed baryon Ξcc+ , Sci. China Phys. Mech. Astron. 63 (2020) 221062 (Cover paper). LHCb collaboration, Measurement of ψ(2S) production cross-section in proton-proton collisions at 7 and 13 TeV, EPJC 80 (2020) 185 . LHCb collaboration, Observation of an excited B c + state , Phys. Rev. Lett. 122 (2019) 232001. Y. Feng, J. He, J.-P. Lansberg, H.-S. Shao, A. Usachov and H.-F. Zhang, Phenomenological NLO analysis of η c production at the LHC in the collider and fixed-target modes , NPB 945 (2019) 114662. R. Aaij et al. , Design and performance of the LHCb trigger and full real-time reconstruction in Run 2 of the LHC , JINST 14 (2019) P04013. LHCb collaboration, First observation of the doubly charmed baryon decay Ξcc++ →Ξc+π + , Phys. Rev. Lett. 121 (2018) 162002. LHCb collaboration, Measurement of the lifetime of the doubly charmed baryon Ξcc++ , Phys. Rev. Lett. 121 (2018) 052002 (Editors' Suggestion). LHCb collaboration, Measurement of Upsilon production in pp collisions at 13 TeV , JHEP 07 (2018) 134. LHCb collaboration, Search for excited B c + states , JHEP 01 (2018) 138. LHCb collaboration, Observation of the doubly charmed baryon Ξcc++ , Phys. Rev. Lett. 119 (2017) 112001 (Editors' Suggestion, Featured in Physics). LHCb collaboration, Study of charmonium production in b-hadron decays and first evidence for the decay B s → φφφ , EJPC 77 (2017) 609 (Cover paper). LHCb collaboration, Observation of the decay B s →η c φ and evidence for B s →η c π + π - , JHEP 07 (2017) 021. M.K. Baszscyk et al. , Test of the photon detection system for the LHCb RICH Upgrade in a charged particle beam, JINST 12 (2017) P01012 . LHCb collaboration, Search for structure in the B s π invariant mass spectrum , Phys. Rev. Lett. 117 (2016) 152003 (Editors' Suggestion). LHCb collaboration, Measurement of B c production in proton-proton collisions at 8 TeV , Phys. Rev. Lett. 114 (2015) 132001. LHCb collaboration, Angular analysis of the B d →K *0 e + e - decay in the low-q 2 region , JHEP 04 (2015) 064. LHCb collaboration, Measurement of the η c (1S) production cross-section in proton-proton collisions via the decay η c (1S)→ppbar , EPJC 75 (2015) 311. LHCb collaboration, Measurement of the B c meson lifetime using B c →J/ψμX decay , EPJC 74 (2014) 2839. LHCb collaboration, Study of J/ψ production and cold nuclear effects in pPb collisions , JHEP 02 (2014) 072. LHCb collaboration, Observation of the decay B c →B s π , Phys. Rev. Lett. 111 (2013) 181801. LHCb collaboration, First observation of the decay B c →J/ψK , JHEP 09 (2013) 075. LHCb collaboration, Measurement of B meson production cross-sections in proton-proton collisions at 7 TeV , JHEP 08 (2013) 117. LHCb collaboration, Production of J/ψ and Υ in pp collisions at 8 TeV , JHEP 06 (2013) 064. LHCb collaboration, Measurement of the B d →K *0 e + e - branching fraction at low dilepton mass , JHEP 05 (2013) 159. LHCb collaboration, Observation of the decay B c →ψ(2S)π , Phys. Rev. D 87 (2013) 071103 (R). R. Aaij et al., The LHCb trigger and its performance , JINST 8 (2013) P04022. LHCb collaboration, Measurement of B c production and mass with the B c →J/ψπ decay , Phys. Rev. Lett. 109 (2012) 232001. LHCb collaboration, Measurement of the B ± production cross-section in pp collisions at 7 TeV , JHEP 04 (2012) 093. LHCb collaboration, Measurement of b-hadron masses , Phys. Lett. B 708 (2012) 241. LHCb collaboration, Measurement of J/ψ production in pp collisions at 7 TeV , EPJC 71 (2011) 1645. S. Barsuk, J. He, E. Kou, and B. Viaud, Investigating charmonium production at the LHC with the ppbar final state , Phys. Rev. D 86 (2012) 034011. Y. Gao, J. He, P. Robbe, M.-H. Schune, and Z. Yang, Experimental prospects of the B c studies of the LHCb experiment , Chin. Phys. Lett. 27 (2010) 061302. S. Deshcotes-Genon, J. He, E. Kou, and P. Robbe, Nonleptonic charmless B c decays and their search at LHCb , Phys. Rev. D 80 (2009) 114031. 
+ 
+ 
+ 
+ Proceedings 
+ 
+ J. He (on behalf of the ALICE, ATLAS, CMS and LHCb collaborations), Heavy flavour production and spectroscopy, Proc. of the 9 th Annual Conference on Large Hadron Collider Physics (LHCP 2021), Paris (Virtual), France, June 2021, PoS (LHCP2021) 140. J. He (on behalf of the LHCb collaboration), Recent LHCb results in charm spectroscopy, Proc. of the 39 th International Conference on High Energy Physics (ICHEP 2018), Seoul, South Korea, Jul 2018, PoS (ICHEP2018) 211. J. He (on behalf of the LHCb collaboration), Studies of B c mesons at LHCb, Proc. of the 39 th International Conference on High Energy Physics (ICHEP 2018), Seoul, South Korea, Jul 2018, PoS (ICHEP2018) 146. J. He (on behalf of the LHCb RICH collaboration), Real-time calibration and alignment of the LHCb RICH detectors, Proc. of the 9th International Workshop on Ring Imaging Cherenkov Detectors (RICH 2016), Bled, Slovenia, Sept 2016, Nucl. Instrum. Methods Phys. Res. A 876 (2017) 13 . J. He (on behalf of the LHCb collaboration), Electroweak penguins at LHCb , Proc. of the 37 th International Conference on High Energy Physics (ICHEP 2014), Valencia, Spain, July 2014, Nuclear and Particle Physics Proceedings 273-275 (2016) 1370. J. He (on behalf of the LHCb collaboration), J/psi and Bc production at LHCb , Proc. of The 13th International Conference on B-Physics at Hadron Machines, Amsterdam, The Netherlands, April 2011, PoS (BEAUTY 2011) 026. I. Belyaev et al., Handling of the generation of primary events in Gauss, the LHCb simulation framework , Proc. of the 2010 IEEE Nuclear Science Symposium, Medical Imaging Conference, and Room Temperature Semiconductor Detectors Workshop, Knoxville, Tennessee, USA, Nov 2010, IEEE (2010) 1155. I. Belyaev et al., Handling of the generation of primary events in Gauss , the LHCb simulation framework, Proc. of The International Conference on Computing in High Energy and Nuclear Physics (CHEP 2010), Taipei, Taiwan, Oct 2010, J. Phys.: Conf. Ser. 331 (2011) 032047. S. Barsuk, J. He , E. Kou, and B. Viaud, Charmonium hadroproduction studies via pp at the LHC , Proc. of the Workshop “Three Days of Quarkonium Production in Proton-Proton and Proton-Nucleus Collisions”, Palaiseau, France, July 2010, NPB (Proc. Supp.) 214 (2011) 169. S. Descotes-Genon, J. He , E. Kou and P. Robbe, Non-leptonic charmless Bc decays (and their search at LHCb), Proc. of The 2009 Europhysics Conference on High Energy Physics, Krakow, Poland, July 2009, PoS (EPS-HEP 2009) 210. J. He (on behalf of the LHCb collaboration), Measurement of Bc mass and lifetime at LHCb, Proc. of the XVII Int. Workshop on Deep-Inelastic Scattering and Related Topics, Madrid, Spain, April 2009. 
+ 
+ 
+ 
+ Public notes/reports 
+ 
+ M.K. Baszscyk et al. , Test of the photon detection system for the LHCb RICH Upgrade in a charged particle beam, CERN-LHCb-PUB-2016-019 . LHCb collaboration, Search for structure in the Bsπ invariant spectrum, CERN-LHCb-CONF-2016-004. LHCb collaboration, LHCb PID Upgrade Technical Design Report (TDR) , CERN-LHCC-2013-022. LHCb collaboration, First analysis of the pPb pilot run data with LHCb, CERN-LHCb-CONF-2012-034. Y. Gao, J. He and Z. Yang, Study of the Bc lifetime measurement using the exclusive decay Bc→J/ψ(μμ)π at LHCb, CERN-LHCb-2008-077. Y. Gao, J. He and Z. Yang, Event selection of Bc→J/ψ(μμ)π and estimate of the event yield, CERN-LHCb-2008-059 . 
+ 
+ 
+ 
+ 
+ 
+ Research Interests 
+ 
+ 
+ 
+ Experimental particle physics, especially in Experimental studies of Quantum Chromodynamics (QCD) Indirect searches for New Physics in b/c decays Instrumentation R & D Experiment operation, e.g., calibration/alignments Space-based Gravitational Wave detection 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Conferences 
+ 
+ 
+ 
+ Experimental review of DPS studies from LHCb, Workshop on Tools for Quarkonia and DPS, Aussois (France), January 10-14, 2026. Review on eta(c), chi(c), chi(b) production in pp collisions, Quarkonium As Tools 2026, Aussois (France), January 4-10, 2026. Double-Parton Scattering at LHCb, Workshop on Double Parton Scattering and the 3D Structure of Hadrons, Aussois (France), January 11-15, 2025. Production of exotic hadrons and Bc+, an experimental review, Quarkonium As Tools 2025, Aussois (France), January 6-11, 2025. Results and prospects for quarkonium studies using hadronic decays (Round table discussion), Quarkonium As Tools 2024, Aussois (France), January 8-13, 2024. Bc production , Quarkonium As Tools 2024, Aussois (France), January 8-13, 2024. (Plenary) Heavy flavour production and spectroscopy, LHCP 2021 (The 9th Edition of the Large Hadron Collider Physics Conference), Paris (Virtual), June 7-12, 2021. Doubly heavy mesons and baryons at LHCb, QWG 2021 (The 14th International Workshop on Heavy Quarkonium), University of California, Davis (Virtual), March 15-19, 2021. Experimental overview of less conventional quarkonia: eta(c), chi(Q), X(3872) production, Quarkonium As Tools 2020, Aussois (France), January 13-19, 2020. Recent LHCb results in charm spectroscopy, ICHEP 2018 (The 39th International Conference on High Energy Physics), Seoul (South Korea), July 4-11, 2018. Studies of B c mesons at LHCb, ICHEP 2018 (The 39th International Conference on High Energy Physics), Seoul (South Korea), July 4-11, 2018. Prospect of LHCb for singly and doubly charmed baryons, Workshop on singly and doubly charmed baryons, LPNHE, CNRS/Sorbonne Universite, Paris (France), June 26-27, 2018. Real-time calibration and alignment of the LHCb RICH detectors, RICH 2016 (The 9th International Workshop on Ring Imaging Cherenkov Detectors), Bled (Slovenia), September 5-9, 2016. Experimental review of pentaquarks and tetraquarks , FPCP 2016 (The 14th Conference on Flavor Physics and CP Violation) , Caltech, Pasadena (USA), June 6-9, 2016. Bc studies at LHCb, QWG 2014 (The 10th International Workshop on Heavy Quarkonium), CERN, Geneva (Switzerland), November 10-14, 2014. Heavy quark production , ISVHECRI 2014 (The 18th International Symposium on Very High Energy Cosmic Ray Interactions), CERN, Geneva (Switzerland), August 18-22, 2014. Electroweak penguins at LHCb, ICHEP 2014 (The 37th International Conference on High Energy Physics), Valencia (Spain), July 2-9, 2014. ATLAS & LHCb upgrades relevant for heavy flavor & onium production, SGW 2013 (The First SaporeGravis Workshop), Subatech, Nantes (France), December 2-5, 2013. Bottom production, spectroscopy, lifetime, PIC 2013 (The XXXIII International Symposium on Physics in Collision), IHEP, Beijing (China), September 3-7, 2013. Heavy-flavour and quarkonium results in pp, The First SaporeGravis Day Meeting, IPN, Orsay (France), November 23, 2012. Latest flavour physics results from LHCb, Latest Results From the LHC (ICHEP 2012 Summary), CERN, Geneva (Switzerland), July 12, 2012. Bc studies at LHCb , QWG 2011 (The 8th International Workshop on Heavy Quarkonium), GSI, Darmstadt (Germany), October 4-7, 2011. J/ψ and Bc± production at LHCb , BEAUTY 2011 (The 13th International Conference on B-Physics at Hadron Machines), Amsterdam (The Netherlands), April 4-8, 2011. Charmonium hadroproduction studies via pp at the LHC, Three Days of Quarkonium Production in Proton-Proton and Proton-Nucleus Collisions, Ecole Polytechnique, Palaiseau (France), July 29-31 2010. Heavy quarkonia studies at LHCb, ReteQuarkonii Thematic Day, IPNO, Orsay (France), February 9, 2010. Measurement of Bc+ mass and lifetime at LHCb, DIS 2009 (The XVII International Workshop on Deep-Inelastic Scattering and Related Subjects), Madrid (Spain), April 26-30, 2009. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Supervision 
+ 
+ 
+ 
+ 2025 Qingxiang Guo 2024 Mingquan Sun Zijun Liu (Master) 2023 Yuxuan Tang 2021 Qi Shi 2020 Zhenhong Wu (Master -> PhD student in 2022) 2019 Zhihao Xu (Master -> PhD student in 2021) 2018 Yanting Fan (defended in 2023) 2017 Yixiong Zhou (defended in 2020) Jingyi Xu (Master -> PhD student in 2019, defended in 2022) 2016 Zhiyu Xiang (Master -> PhD student in 2018, defended in 2022) 
+ 
+ 
+ 
+ 
+ 
+ Post-docs 
+ 
+ 2024 Bo Fang 2021 Roberto Piandani (till 2022, => NA62, CERN Scientific Associate) Giulia Tuci (till 2022, => Post-doc at Heidelberg University, Germany) 2020 Dmitry Popov (CERN LHCb computing group) 2019 Angel Campoverde ( CAS PIFI Fellow ) 2017 Qingnian Xu (till 2022, Faculty at Inner Mongolia University) 2016 Daniel Vieira ( CAS PIFI Fellow , till 2019, => Post-doc at University of Cincinnati, USA) Nikita Beily (Co-supervisor, till 2018) Maciej Szymanski (CERN LHCb computing group, till 2019, => CERN Fellow) 
+ 
+ 
+ 
+ 
+ 
+ 声明：导师网页信息由导师个人维护，仅代表导师本人。教师系统仅提供信息存储空间服务。 2013 &copy; 中国科学院大学，网络信息中心. 
+ 
+ 
+ 

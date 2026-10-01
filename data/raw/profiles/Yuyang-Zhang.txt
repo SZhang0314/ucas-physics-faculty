@@ -1,0 +1,132 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 张余洋-中国科学院大学-UCAS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [中文] 
+ [English] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research Areas 
+ 
+ 
+ 
+ Education 
+ 
+ 
+ 
+ Experience 
+ 
+ 
+ 
+ Selective Publications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Yu-Yang Zhang Distinguished Professor, School of Physical Sciences Email: zhangyuyang [at] ucas.ac.cn Click to see my Google Scholar or my ORCID Postdoc position opening 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research Areas 
+ 
+ 
+ 
+ My research interest is to use theoretical calculations based on density functional theory (DFT) to understand the fundamental physics in emerging functional materials for future nano-electronics and energy-related applications. With such understandings, I design novel functional materials, understand the structure-properties correlations, and propose methods to achieve property modulations for practical applications. My previous and current research projects include first-principle calculations of solid-state materials ranging from crystals, surfaces, interfaces, to various nanostructures. In particular, I study (1) Physics and chemistry at surfaces and interfaces: the self-assembly of molecules on metallic surfaces, electronic and dynamic properties of surface adsorption, heterogeneous catalysis. (2) Emergent novel phenomena: low-dimensional topological insulators, ferromagnetic Weyl semimetal, topological superconductors. (3) Machine learning in condensed matter physics: fast processing of scanning probe microscopy images and machine learning for energy-related materials. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Education 
+ 
+ 
+ 
+ 2005 -- 2011 Institute of Physics, Chinese Academy of Sciences. Ph.D 2001 -- 2005 University of Science and Technology of China. B.S 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Experience 
+ 
+ 
+ 
+ 2025/09 -- now University of Chinese Academy of Sciences, Distinguished Professor 2024/09 -- 2025/08 University of Chinese Academy of Sciences, Professor 2016/12 -- 2024/09 University of Chinese Academy of Sciences, Associate Professor 2013/06 -- 2016/12 Vanderbilt University, Postdoc (with Prof. Sokrates T. Pantelides) 2013/06 -- 2015/01 Oak Ridge National Laboratory, Visiting Scientist. 2011/06 -- 2013/06 Rensselaer Polytechic Institute, Postdoc (with Prof. Shengbai Zhang) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Selective Publications 
+ 
+ 
+ 
+ Yu-Tian Zhang#, Yun-Peng Wang#, Xianli Zhang, Yu-Yang Zhang*, Shixuan Du, and Sokrates T. Pantelides. "Structure of amorphous two-dimensional materials: Elemental monolayer amorphous carbon versus binary monolayer amorphous boron nitride". Nano Letters 22 (19), 8018 (2022). Shiyu Zhu#, Lingyuan Kong#, Lu Cao#, Hui Chen#, Michał Papaj, Shixuan Du, Yuqing Xing, Wenyao Liu, Dongfei Wang, Chengmin Shen, Fazhi Yang, John Schneeloch, Ruidan Zhong, Genda Gu, Liang Fu, Yu-Yang Zhang*, Hong Ding*, and Hong-Jun Gao*. "Nearly quantized conductance plateau of vortex zero mode in an iron-based superconductor". Science, 367 (6474), 189 (2020) Hui Chen#, Xian-Li Zhang#, Yu-Yang Zhang#, Dongfei Wang, De-Liang Bao, Yande Que, Wende Xiao, Shixuan Du*, Min Ouyang, Sokrates T. Pantelides, and Hong-Jun Gao*. "Atomically precise, custom-design origami graphene nanostructures". Science 365, 1036 (2019). Wu Zhou#, Yu-Yang Zhang#, Jianyi Chen, Dongdong Li, Jiadong Zhou, Zheng Liu, Matthew F. Chisholm, Sokrates T. Pantelides, and Kian Ping Loh. "Dislocation-driven growth of two-dimensional lateral quantum-well superlattices". Sci. Adv. 4, eaap9096 (2018). X. Lin#, J. C. Lu#, Y. Shao#, Y. Y. Zhang#, X. Wu, J. Pan, L. Gao, S. Y. Zhu, K. Qian, Y. F. Zhang, D. L. Bao, L. F. Li, Y. Q. Wang, Z. L. Liu, J. Sun, T. Lei, C. Liu, J. Wang, K. Ibrahim, D. Leonard, W. Zhou, H. Guo, Y. L. Wang, S. X. Du, S. T. Pantelides, and H. -J. Gao. "Intrinsically patterned two-dimensional materials for selective adsorption of molecules and nanoclusters". Nat. Mater. 16, 717 (2017) Deyi Fu, Xiaoxu Zhao, Yu-Yang Zhang, Linjun Li, Hai Xu, A. Rang Jang, Seong In Yoon, Peng Song, Sock Mui Poh, Tianhua Ren, Zijing Ding, Wei Fu, Tae Joo Shin, Hyeon Suk Shin, Sokrates T. Pantelides, Wu Zhou, and Kian Ping Loh. "Molecular beam epitaxy of highly crystalline monolayer molybdenum disulfide on hexagonal boron nitride". J. Am. Chem. Soc. 139, 9392 (2017). Peng Gao*, Liping Wang, Yu-Yang Zhang*, Yuan Huang, Lei Liao, Peter Sutter, Kaihui Liu, Dapeng Yu, and En-Ge Wang. "High-resolution tracking asymmetric lithium insertion and extraction and local structure ordering in SnS2". Nano Lett. 16, 5582 (2016). Wende Xiao, Karl-Heinz Ernst, Krisztian Palotas, Yuyang Zhang, Emilie Bruyer, Lingqing Peng, Thomas Greber, Werner A. Hofer, Lawrence T. Scott, and Roman Fasel. "Microscopic origin of chiral shape induction in achiral crystals". Nature Chem. 8, 326 (2016). Yu Yang Zhang, Rohan Mishra, Timothy J. Pennycook, Albina Y. Borisevich, Stephen J. Pennycook, and Sokrates T. Pantelides. "Oxygen disorder, a way to accommodate large epitaxial strains in oxides". Adv. Mater. Interf. 2, 1500344 (2015). Jindong Ren#, Haiming Guo#, Jinbo Pan#, Yu Yang Zhang#, Xu Wu, Hong-Gang Luo, Shixuan Du, Sokrates T. Pantelides, and Hong-Jun Gao. "Kondo effect of cobalt adatoms on a graphene monolayer controlled by substrate-induced ripples". Nano Lett. 14, 4011 (2014). Yunxi Yao, Qiang Fu, Y. Y. Zhang, Xuefei Weng, Huan Li, Mingshu Chen, Li Jin, Aiyi Dong, Rentao Mu, Peng Jiang, Li Liu, Hendrik Bluhm, Zhi Liu, S. B. Zhang, and Xinhe Bao. "Graphene cover-promoted metal-catalyzed reactions". Proc. Natl. Acad. Sci. 111, 17023 (2014). Y. Y. Zhang, Y. Y. Sun, S. X. Du, H. J. Gao, and S. B. Zhang. "Organic salts as super-high rate capability materials for lithium-ion batteries". Appl. Phys. Lett. 100, 091905 (2012). Y. Y. Zhang, S. X. Du, and H. -J. Gao. "Binding configuration, electronic structure, and magnetic properties of metal phthalocyanines on a Au(111) surface studied with ab initio calculations". Phys. Rev. B 84, 125446 (2011). Q. Liu, Y. Y. Zhang, N. Jiang, H. G. Zhang, L. Gao, S. X. Du, and H. -J. Gao. "Identifying multiple configurations of complex molecules in dynamical processes: time resolved tunneling spectroscopy and density functional theory calculation". Phys. Rev. Lett. 104, 166101 (2010). N. Jiang, Y. Y. Zhang, Q. Liu, Z. H. Cheng, Z. T. Deng, S. X. Du, H. -J. Gao, M. J. Beck, and S. T. Pantelides. "Diffusivity control in molecule-on-metal systems using electric fields". Nano Lett. 10, 1184 (2010). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 声明：导师网页信息由导师个人维护，仅代表导师本人。教师系统仅提供信息存储空间服务。 2013 &copy; 中国科学院大学，网络信息中心. 
+ 
+ 
+ 

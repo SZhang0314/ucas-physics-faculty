@@ -1,0 +1,231 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 黎明-中国科学院大学-UCAS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [中文] 
+ [English] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Education 
+ 
+ 
+ 
+ 
+ 
+ Experience 
+ 
+ 
+ 
+ 
+ 
+ Publications 
+ 
+ 
+ 
+ 
+ 
+ Research Interests 
+ 
+ 
+ 
+ 
+ 
+ Conferences 
+ 
+ 
+ 
+ 
+ 
+ Collaboration 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ General 
+ 
+ 
+ 黎明 男 汉族 博导 物理科学学院 Email: liming@ucas.ac.cn Address: No.3, ZhongGuanCun NanYiTiao,HaiDian District,Beijing Postcode: 100190 
+ 
+ 
+ 
+ 
+ 
+ Research Areas 
+ 
+ 
+ 
+ My research field is theoretical biophysics and related statistical physics. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Education 
+ 
+ 
+ 
+ Sep.1995&ndash;July.1999 
+Bachelor in Department of modern physics, University of Science and Technology of China; 
+ 
+Sep.1999&ndash;July 2006 
+Ph.D in Institute of Theoretical Physics, Chinese Academy of Sciences 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Experience 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Work Experience 
+ 
+ 
+ Aug. 2006&ndash;May.2010 
+Assistant Professor of College of Physical sciences, Graduate University of CAS 
+ 
+May.2010&ndash; 
+Associate Professor of College of Physical sciences, Graduate University of CAS 
+ 
+ 
+ 
+ Teaching Experience 
+ 
+ 
+ I am now teaching two courses in GUCAS to first-year gradutes. 
+ (1) Introduction to Modern Biological Physics 
+ This course provides an overview of the critical developments (both experimental and theoretical) in the area of molecular biophysics during the last decades, with a special focus on single-molecule biophysics (e.g., manipulation techniques like magnetic tweezer, visualization techniques like nanoscope, and data analysis techniques like dwell-time analysis) . 
+For a better understanding of most part of the course, the basic knowledge of thermodynamics and statistical physics is required. 
+ 
+ Reference Books: 
+ [1] Biological Physics: energy, information, life, by Philip Nelson. W.H.Freeman and Company, 2004 
+[2] Physical Biology of the Cell, by Rob Phillips, Jane Kondev, Julie Theriot. 
+Garland Science, 2008 
+ 
+ 
+ 
+ (2) Advanced Electrodynamics 
+ This course introduces the basic physical ideas of eletromagnetic field of macroscopic media, and the elementary mathematical techniques to solve the field equations in simple cases. 
+ 
+ Reference Books: 
+ [1] Classical Electrodynamics, 3rd ed. by J. D. Jackson, Wiley, 1999 
+[2] Electrodynamics of Continuous Media, 2nd ed. by L. D. Landau and E. M. Lifshitz, ,Pergamon, 1984 
+ 
+ 
+ 
+ 
+ 
+ Publications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Papers 
+ 
+ 
+ 1， Ming Li * and Zhong-can Ou-Yang, Predicting the function of eukaryotic scaffold/matrix attachment regions via DNA mechanics, J. Phys.: Condens. Matter, 2005,17:S2853-S2860 2， Ming Li * and Zhong-can Ou-Yang, An exact numerical method to calculate the base-unpairing probability for any given DNA sequence by Benham model, Thin Solid Film, 2006, 499:207-212 3，Jing Han，Ming Li and Lei Guo, Soft Control on Collective Behavior of a Group of Autonomous Agents by a Shill Agent, Journal of Systems Science and Complexity, 2006,19:54-62 4， Ming Li *, Long-Range Allosteric Effect of DNA and Chromatin Loop Structure, AAPPS Bulletin,2006, 16 (3) : 34-39 5， Ming Li *, Zhong-Can Ou-Yang，DNA as active polymer: long-range allosteric effect and chromatin loop structure，Computer Physics Communications，2007，177：176–179 6， Ming Li * , Zhong-can Ou-Yang, Concentration-Induced Shape Transition of Nano-aggregates in Solution, Thin Solid Films, 517 (2008) 1424–1427 7， Ming Li , Yaogen Shu, Zhong-can Ou-Yang，Mechanochemical coupling of kinesin studied with a neck-linker swing model, Communications in Theoretical Physics ，51:1143-1148 (2009) 8，Ziqing Wang, Ming Li , Force-velocity relations for multiple-molecular-motor transport, Phys. Rev. E, 80: 041923-1 --4 (2009) 9 ， Weihua Mu, Ming Li , Wei Wang and Zhong-can Ou-Yang,Study of axial strain-induced torsion of single-wall carbon nanotubes using the 2D continuum anharmonic anisotropic elastic model, New J. Phys. 11(2009) 113049 (10pp) 10，L.C.Gong, M.Li *, Z.C. Ouyang, Investigation on energetic optimization problems of stochastic thermodynamics with iterative dynamic programming， Communications in Computational Physics, 7( 5), 904-926 (2010) 11，Yaogen Shu, Ming Li *, Substeps of kinesin studied with a neck linker swing model , Modern Physics letters.B . 24(6) : 539–548 (2010) 12，Y.Shu, X. Zhang, Z.C. Ou-yang, and M. Li* , The neck linker of kinesin 1 seems optimally designed to approach the largest stepping velocity: a simulation study of an ideal model, J. Phys.: Condens. Matter 24 (2012) 035105 13, Chun Chen, Ming Li* , Yongzheng Xing, Zhongqiang Yang and Dongsheng Liu* , Study of Folding and Unfolding Kinetics of DNA i-motif by Stopped-flow Circular Dichroism, Langmuir, 2012, 28, 17743−17748 14，Fanlong Meng, Ming Li, Xin Zhou, and Zhongcan Ouyang, A theoretical study of entropy-driven polymer transport through finite-size nanochannels, Chemical Physics Letters 565 (2013) 116–121 15, Rui Ma, Ming Li , Zhong-Can Ou-Yang and Yao-Gen Shu, Master equation approach for a cross-bridge power-stroke model with a finite number of motors, PHYSICAL REVIEW E 87, 052718 (2013) 16，Xiaohu Zhang, Ming Li , Yanting Wang, Zhong-Can Ou-Yang, Formation and Dissociation of Protonated Cytosine-Cytosine Base Pairs in I-Motifs by Ab Initio Quantum Chemical Calculations, Chinese Physics B. 2014, 23(2) : 020702 17, WANG Zi-Qing, SHU Yao-Gen, LI Ming* , A New Cooperation Mechanism of Kinesin Motors when Extracting Membrane Tube, Commun. Theor. Phys. 60 (2013) 753–760 18，Xu Yue, Chen Hu, Qu Yu-Jie, Artem K. Efremov, Li Ming , Ouyang Zhong-Can, Liu Dong-Sheng, and Yan Ji, Mechano-chemical selections of two competitive unfolding pathways of a single DNA i-motif, Chin. Phys. B, 23(6) 068702 (2014) 19，Yao-Gen Shu, Yong-Shun Song, Zhong-Can Ou-Yang and Ming Li* , A general theory of kinetics and thermodynamics of steady-state copolymerization, J. Phys.: Condens. Matter 27 (2015) 235105 20，HAI Nan-Nan , ZHOU Xin, and LI Ming* , Influences of the Structure of Lipids on Thermal Stability of Lipid Membranes, Commun. Theor. Phys. 64 (2015) 249–258 21, Fen Wu, Yongshun Song, Zhiyong Zhao, Shusheng Zhang, Zhongqiang Yang, Zhibo Li, Ming Li*, Qing-Hua Fan *, and Dongsheng Liu *, Preparation and Self-Assembly of Supramolecular Coil−Rod−Coil Triblock Copolymer PPO−dsDNA−PPO, Macromolecule s 2015, 48, 7550−7556 22,Yuan Fei, Zhang Chuan-Biao, Zhou Xin, Li Ming* , An improved algorithm for prediction of protein loop structure based on position specificity of amino acids, Acta Physica Sinica, 65, 158701 (2016) 23, Li Ming , Ouyang Zhong-Can, Shu Yao-Gen, Advances in the mechanism of mechanochemical coupling of kinesin, Acta Physica Sinica, 65, 188702 (2016) [Chinese Edition]; International Journal of Modern Physics B, 32 ( 18 ): 1840001 (2018) [In English] 24, Song, Yong-Shun; Shu, Yao-Gen; Zhou, Xin; Ouyang, Zhong-Can; Li, Ming* , Proofreading of DNA Polymerase: a new kinetic model with higher-order terminal effects, J. Phys.: Condens. Matter 29(2017)025101 [this work is hilighted by the journal, see https://jphysplus.iop.org/2017/01/26/a-quantitative-understanding-of-high-fidelity-dna-polymerase/ ] 25, Ming Li , Zhong-Can Ou-Yang and Yao-Gen Sh u, Study on the Fidelity of Biodevice T7 DNA Polymerase, Proceedings of the 11th International Joint Conference on Biomedical Engineering Systems and Technologies (BIOSTEC 2018) - Volume 3: BIOINFORMATICS, pages 135-139 DOI: 10.5220/0006636101350139 26， Qiu-Shi Li, Pei-Dong Zheng, Yao-Gen Shu, Zhong-Can Ou-Yang, Ming Li* , The template-specific fidelity of DNA replication with high-order neighbor effects: a first-passage approach. PHYSICAL REVIEW E 100, 012131 (2019) #，Chinese Translation of the textbook《Biological Physics: energy, information, life》(by Philip Nelson. W.H.Freeman and Company, 2004), published by Shanghai Science & Technology Press, 2006. The revised version (2nd version) has been released in 2016. 
+ 
+ 
+ 
+ 
+ 
+ Research Interests 
+ 
+ 
+ 
+ My recent interest and research focus are biomolecular machines, like kinesin, F0F1-ATPase. We are exploring the working mechanism and design principle of those mechines from the viewpoint of theoretical physicists. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Conferences 
+ 
+ 
+ 
+ 1, Oral presentation (Biophysics session): Prediction on Scaffold/Matrix Attachment Regions (S/MARs) by DNA Mechanics, 4th OCPA Joint Meeting of Chinese Physicists World-Wide, June.28-July.1, 2004, Shanghai 2, Poster: Microstructure of Chromosome and Topological Problems in Gene Regulation， 5th International Conference on Biological Physics ICBP 2004, Gothenburg, August 23 - 27, 2004 3, 2006.4-2006.7, visiting KITP at UCSB, the international workshop &ldquo;New Physical Approaches to Molecular and Cellular Machines&rdquo; 4, Oral presentation: long-range allosteric effect in gene transcriptional regulation，International Symposium on the Recent Progress in Quantitative and Systems Biology, Dec..9-11, 2006, Chinese University of Hong Kong 5, invited talk: Introduction to Biomolecular nanomachines and related thermodynamics, 2008.7.11, SFI-ITP International Summer School on Complex Systems, Beijing 6, invited talk: DNA as active polymer: long-range allosteric effect and gene transcription, 2009.7.17, CAS Workshop on DNA Nanotechnology, Beijing 7, Two posters at the 7th International Conference on Biological Physics, June 18-25, 2011, UCSD, USA （1）Kinesin Neck Linker is Optimally Designed to Achieve the largest stepping velocity: a Simulation Study； （2）A Molecular Simulation Study on the Allosteric Mechanism of Na+ - coupled symporter BetP. 8, “ 关于步行马达 kinesin 结构优化的一点思考”，邀请报告，海峡两岸生物学启发的理论科学问题研讨会（ BITS8 ）， 2012.6.20-25 ，三峡大学，湖北宜昌 9， “ kinetics and thermodynamics of stationary copolymerization processes ”，邀请报告，海峡两岸生物学启发的理论科学问题研讨会（ BITS9 ）， 2014.6.26-28 ，中原大学，台湾 10， “DNA聚合酶保真度问题的理论研究”，邀请报告，2014年生物物理理论与实验技术进展研讨会，2014.12.6-7, 贵州大学 11, “Flux‐driven information generation: a general theory of steady-state copolymerization”， invited talk ，第三届全国统计物理与复杂系统学术会议，2015.7. 22‐24, 兰州 12, “Theoretical models of the steady-state kinetics and fidelity of DNA/RNA polymerase”， invited talk ，第十次鼓岭科学会议, 2015.10.23-24, 厦门大学 13，Proofreading of DNA/RNA Polymerase: a new kinetic model with higher-order terminal effects，invited talk，第十届海峡两岸生物学启发的理论科学问题研讨会（BITS10），2016.6.20-22, 上海-扬州， 14, A general theory of steady-state copolymerization with applications to DNA replication by DNA polymerase, oral presentation, 26 th International conference on Statistical Physics of IUPAP, 2016.7.18-22 ，Lyon, France 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Collaboration 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 声明：导师网页信息由导师个人维护，仅代表导师本人。教师系统仅提供信息存储空间服务。 2013 &copy; 中国科学院大学，网络信息中心. 
+ 
+ 
+ 
