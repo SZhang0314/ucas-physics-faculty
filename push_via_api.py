@@ -17,7 +17,7 @@ BRANCH = "main"
 
 INCLUDE = None  # all tracked files
 SKIP_DIRS = {".git", "__pycache__"}
-SKIP_FILES = {"data/raw/preview.png"}
+SKIP_FILES = {"data/raw/preview.png", "_apitest.py", "_init.py"}
 
 
 def gh(*args, input=None, method=None):
